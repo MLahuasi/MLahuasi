@@ -145,6 +145,28 @@ Librería para envío de correos y notificaciones utilizando Nodemailer con sopo
 
 </td>
 
+<td width="50%" valign="top">
+
+## 🎨 Frontend Labs
+
+<p align="center">
+  <img src="./assets/projects/frontend-labs-en.png" width="70%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MLahuasi/frontendmentor-huddle-landing-page">
+    <img src="https://img.shields.io/badge/Huddle-6C47FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/MLahuasi/frontendmentor-fylo-landing-page">
+    <img src="https://img.shields.io/badge/Fylo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+Colección de laboratorios frontend basados en retos de Frontend Mentor, desarrollados para practicar interfaces responsive, componentización y despliegue con tecnologías modernas.
+
+`React • TypeScript • Vite • Responsive Design • Frontend Mentor • Vercel`
+
+</td>
 </tr>
 </table>
 
