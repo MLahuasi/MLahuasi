@@ -31,7 +31,28 @@ Desarrollo soluciones orientadas a claridad de código, trazabilidad, observabil
 # 🚀 Proyectos Destacados
 
 <table>
+
 <tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Agent Labs
+
+<p align="center">
+  <img src="./assets/projects/ia-agents-labs-en.png" width="70%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MLahuasi/ai-agent-labs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+Laboratorios y experimentación con LLMs, tool calling, RAG, embeddings, búsqueda vectorial, flujos agénticos y desarrollo de software asistido por IA con Node.js y TypeScript.
+
+`Node.js • TypeScript • LLMs • Tool Calling • RAG • Vector Search • AI-Assisted Development`
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -57,6 +78,10 @@ Módulo RESTful de autenticación y autorización construido sobre una arquitect
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ## 🔑 jmlq-auth
@@ -76,10 +101,6 @@ Librería de autenticación y autorización para Node.js diseñada con principio
 `Authentication • Sessions • Refresh Tokens • JWT`
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -101,6 +122,10 @@ Librería de logging enfocada en trazabilidad, observabilidad y monitoreo para a
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ## ⏰ jmlq-cron
@@ -120,10 +145,6 @@ Librería para ejecución de tareas programadas y automatización basada en cron
 `Cron Jobs • Scheduler • Automation • Modular API`
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -145,6 +166,10 @@ Librería para envío de correos y notificaciones utilizando Nodemailer con sopo
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ## 🎨 Frontend Labs
@@ -157,6 +182,7 @@ Librería para envío de correos y notificaciones utilizando Nodemailer con sopo
   <a href="https://github.com/MLahuasi/frontendmentor-huddle-landing-page">
     <img src="https://img.shields.io/badge/Huddle-6C47FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://github.com/MLahuasi/frontendmentor-fylo-landing-page">
     <img src="https://img.shields.io/badge/Fylo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -167,7 +193,12 @@ Colección de laboratorios frontend basados en retos de Frontend Mentor, desarro
 `React • TypeScript • Vite • Responsive Design • Frontend Mentor • Vercel`
 
 </td>
+
+<td width="50%" valign="top">
+</td>
+
 </tr>
+
 </table>
 
 ---
@@ -176,7 +207,7 @@ Colección de laboratorios frontend basados en retos de Frontend Mentor, desarro
 
 ## Backend
 
-<p align="left">  
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,nodejs,npm,ts,nestjs,express" />
 </p>
 
@@ -190,6 +221,39 @@ Colección de laboratorios frontend basados en retos de Frontend Mentor, desarro
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,css,tailwind" />
+</p>
+
+## Inteligencia Artificial y LLMs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_Integration-5B5FC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool_Calling-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-0891B2?style=for-the-badge" />
+</p>
+
+## Desarrollo de Software Asistido por IA
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Coding_Agents-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spec_Driven_Development-0F766E?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Context_Management-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skills_&_Subagents-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git_Worktrees-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## Infraestructura y Herramientas
@@ -213,6 +277,7 @@ Colección de laboratorios frontend basados en retos de Frontend Mentor, desarro
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/sqlite--vec-4B5563?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ---
